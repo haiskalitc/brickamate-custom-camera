@@ -1,6 +1,6 @@
 {
   "name": "brickmate-custom-camera",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "This library depend on @capacitor/camera",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
